@@ -1,0 +1,8 @@
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\bin\Release\UpDownNumericTextBox.dll
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\bin\Release\UpDownNumericTextBox.pdb
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\UpDownNumericTextBox.csproj.AssemblyReference.cache
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\CustomNumericTextBox.Properties.Resources.resources
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\UpDownNumericTextBox.csproj.GenerateResource.cache
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\UpDownNumericTextBox.csproj.CoreCompileInputs.cache
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\UpDownNumericTextBox.dll
+C:\Users\fisal\Documents\Visual Studio 2019\UpDownNumericTextBox\UpDownNumericTextBox\obj\Release\UpDownNumericTextBox.pdb
